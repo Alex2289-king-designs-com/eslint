@@ -78,7 +78,7 @@
     "progress": "^2.0.0",
     "regexpp": "^3.1.0",
     "semver": "^7.2.1",
-    "strip-ansi": "^6.0.0",
+    "strip-ansi": "^7.0.0",
     "strip-json-comments": "^3.1.0",
     "table": "^5.2.3",
     "text-table": "^0.2.0",
